@@ -1,0 +1,1 @@
+This is a repository of a small report based on TEDS data (2018). It is more an exercise in using `usethis::use_git()` and `usethis::use_github()` with `git lfs install` to push a large file to github and setup a functining repository that is synced as an RStudio project.
